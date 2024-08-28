@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: levon.2@wright.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My birthday is the same day as my grandparents anniversary
 
