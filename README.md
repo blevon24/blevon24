@@ -3,10 +3,10 @@
 Hi, I'm **Brianna Levon**, a Computer Science student pursuing a degree in IT and Cybersecurity at Wright State University. 
 
 ### About me
-- 🔭 
-- 🌱 Hobbies: Gaming, Drawing, Hiking, Reading, Listening to Music
-- 👯 Interests: Handicrafts, History, Video Games, Archery
-- 🤔 
+- 🏠 Location: Cleveland, Ohio 🎸
+- 📖 Hobbies: Gaming, Drawing, Hiking, Reading, Listening to Music
+- 🎮 Interests: Handicrafts, History, Video Games, Archery
+- 👔 I'm currently seeking Summer 2025 IT internships
 - 💬 Ask me about Pokemon! 🤩
 - 📫 How to reach me: levon.2@wright.edu
 - 😄 Pronouns: She/Her
