@@ -1,9 +1,10 @@
 # Welcome to my GitHub Profile!
 
-Hi, I'm **Brianna Levon**, a Computer Science student pursuing a degree in IT and Cybersecurity at Wright State University. 
+Hi, I'm **Brianna Levon**, a Computer Science student pursuing a degree in *IT & Cybersecurity* at Wright State University. 
 
 ### About me
 - 🏠 Location: Cleveland, Ohio 🎸
+- 🎓 Major: IT & Cybersecurity (BSITC)
 - 📖 Hobbies: Gaming, Drawing, Hiking, Reading, Listening to Music
 - 🎮 Interests: Handicrafts, History, Video Games, Archery
 - 👔 I'm currently seeking Summer 2025 IT internships
