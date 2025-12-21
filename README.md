@@ -7,9 +7,9 @@ Hi, I'm **Brianna Levon**, a Computer Science student pursuing a degree in *IT &
 - 🎓 Major: IT & Cybersecurity (BSITC)
 - 📖 Hobbies: Gaming, Drawing, Hiking, Reading, Listening to Music
 - 🎮 Interests: Handicrafts, History, Video Games, Archery
-- 👔 I'm currently seeking Summer 2025 IT internships
+- 👔 I'm currently seeking Summer 2026 IT internships
 - 💬 Ask me about Pokemon! 🤩
-- 📫 How to reach me: levon.2@wright.edu
+- 📫 How to reach me: blevon24@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My birthday is the same day as my grandparents' anniversary!
 
