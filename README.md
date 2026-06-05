@@ -14,8 +14,9 @@ Hi, I'm **Brianna Levon**, a Computer Science student pursuing a degree in *IT &
 - ⚡ Fun fact: My birthday is the same day as my grandparents' anniversary!
 
 ### Projects
-- 🎨 **Web Development I Final Project:** In this project, I must create a highly interactive and appealing website as a comprehensive review of everything I learned in my Web Development course
-- 🖥 **Computer Science I Project:** In this project, I must create a program using the concepts covered in my CS I lectures to solve a large problem programmers deal with in the workforce  
+- 🎨 **Web Development I Final Project:** In this project, I created a highly interactive and appealing website as a comprehensive review of everything I learned in my Web Development course
+- 🖥 **Computer Science I Project:** In this project, I created a program using the concepts covered in my CS I lectures to solve a large problem programmers deal with in the workforce
+- **Creating a Dotfiles Git Repo:** In this project, I'm creating and updating my pubic Linux-based dotfiles repository to make my life easier when customizing Linux systems for my personal use
 
 <!--- ### Programming Languages & Tools I Know & Use -->
 <!--- - Javascript, HTML, CSS, Python -->
